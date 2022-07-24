@@ -1,5 +1,5 @@
 {
-  "name": "spring-microservice-transaction",
+  "name": "springmicroservice-transaction",
   "buildpacks": [
     {
       "url": "heroku/maven"
